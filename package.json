@@ -1,0 +1,40 @@
+{
+  "name": "ewingdev-nors",
+  "version": "1.0.0",
+  "description": "v12 nors abicim",
+  "main": "ewingdev.js",
+  "scripts": {
+    "start": "node ewingdev.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.1",
+    "chalk": "^4.0.0",
+    "moment": "^2.26.0",
+    "jimp": "^0.12.1",
+    "quick.db": "^7.1.2",
+    "snekfetch": "^4.0.4",
+    "ms": "^2.1.2",
+    "moment-duration-format": "^2.3.2",
+    "common-tags": "^1.8.0",
+    "dblapi.js": "^2.4.1",
+    "wio.db": "^4.0.9",
+    "discord-anti-spam": "^2.4.1",
+    "dctr-antispam.js": "^0.1.1",
+    "discord-anti-spam-tr": "0.7.4",
+    "request": "^2.88.2",
+    "mongoose": "^5.11.8",
+    "passport": "0.4.1",
+    "passport-local": "1.0.0",
+    "bcryptjs": "2.4.3",
+    "express-session": "1.17.1",
+    "connect-flash": "0.1.1",
+    "ejs": "^3.1.5",
+    "hex-color-regex": "^1.1.0",
+    "discord-canvas": "^1.3.2",
+    "random-puppy": "^1.1.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+ }

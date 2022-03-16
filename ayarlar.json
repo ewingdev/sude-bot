@@ -1,0 +1,15 @@
+{
+  "prefix": "PREFİX . YAPIN DAHA İYİ", 
+  "token": "TOKEN KNK",
+  "sahip": "İDNİZ",
+
+
+  "oldu": "#66ff00",
+  "hata": "#941414",
+  "hata2":"<:EMOJİ:İD>",
+  "hata1": "<:EMOJİ:İD>",
+  "oldu2": "<:EMOJİ:İD>",
+  "bot": "BOTİSMİ |",
+ "embedFalse" : "#66ff00",
+  "embedTrue" : "#941414"
+}
